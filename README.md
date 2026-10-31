@@ -1,41 +1,34 @@
 <div align="center">
 
-# 📚 Beatrice Archive
+<img src="https://avatars.githubusercontent.com/u/308807501?v=4" width="140" style="border-radius:50%" alt="Beako" />
 
-**「禁书库里的东西，可不是谁都能借走的说。」**
-
-*— 貝阿特麗絲 · 禁書庫の司書*
-
-</div>
-
----
-
-### 🦋 关于这间书库
-
-- 🌸 业余收集 **Surge** 模块与配置，把网络整理得像书架一样井井有条
-- 📖 喜欢轻小说与动画，Re:ゼロ 永远的心头好
-- 🛠️ 常用：JavaScript · Surge · GitHub Actions
-- 💬 交流语言：中文 / 日本語
-
-### 📦 馆藏
-
-| 书目 | 简介 |
-| --- | --- |
-| [Beatrice-Surge-Modules](https://github.com/BeatriceArchive/Beatrice-Surge-Modules) | 贝蒂亲手整理的 Surge 模块合集 |
-| [Beatrice-Surge-Config](https://github.com/BeatriceArchive/Beatrice-Surge-Config) | 开箱即用的 Surge 配置 |
-
-### 📊 借阅记录
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=BeatriceArchive&show_icons=true&hide_border=true&theme=radical" />
+<a href="https://github.com/BeatriceArchive">
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=20&duration=3200&pause=1200&color=F48FB1&center=true&vCenter=true&width=460&lines=%E8%BF%99%E9%87%8C%E6%98%AF%E7%A6%81%E4%B9%A6%E5%BA%93%EF%BC%8C%E9%9A%8F%E4%BE%BF%E4%B9%B1%E9%97%AF%E5%8F%AF%E4%B8%8D%E8%A1%8C%E3%81%8B%E3%81%97%E3%82%89;%E4%BB%8A%E5%A4%A9%E4%B9%9F%E5%9C%A8%E6%95%B4%E7%90%86+Surge+%E6%A8%A1%E5%9D%97%E7%9A%84%E8%AF%B4;%E5%A6%82%E6%9E%9C%E5%B8%AE%E5%88%B0%E4%BA%86%E4%BD%A0%EF%BC%8C%E7%95%99%E9%A2%97+Star+%E5%90%A7" alt="typing" />
+</a>
 
 </div>
 
----
+哼，既然推开了门，那就勉强招待你一下好了。
+
+这里是贝蒂的禁书库。平时窝在书架之间整理 **Surge** 的模块和配置，把乱七八糟的规则一本本归好位；闲下来就看动画、啃轻小说。至于哪部最好看——Re:ゼロ，这还用问吗。
+
+书库里目前对外开放的只有两本：
+
+- **[Beatrice-Surge-Modules](https://github.com/BeatriceArchive/Beatrice-Surge-Modules)** — 平时自己在用、顺手打磨过的模块
+- **[Beatrice-Surge-Config](https://github.com/BeatriceArchive/Beatrice-Surge-Config)** — 一份拿来就能用的配置，按自己的口味改改就好
+
+有问题就开 issue，好用的话点个 ⭐。贝蒂才不是在期待呢……大概。
 
 <div align="center">
 
-<sub>✨ 书库的门只为有缘人打开かしら ✨</sub>
+<br />
+
+<img src="https://skillicons.dev/icons?i=js,github,githubactions,vscode,apple&theme=light" alt="tools" />
+
+<br /><br />
+
+<img src="https://count.getloli.com/@BeatriceArchive?theme=moebooru" alt="visitors" />
+
+<sub>今天也辛苦了，来访者 (｡•̀ᴗ-)✧</sub>
 
 </div>

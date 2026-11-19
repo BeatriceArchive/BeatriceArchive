@@ -7,12 +7,17 @@ on:
   push:
     branches: [main]
 
-permissions:
-  contents: write
+permissions: {}
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 5
     steps:
       - uses: Platane/snk@v3
@@ -21,7 +26,7 @@ jobs:
           outputs: |
             dist/snake.svg?palette=github-light&color_snake=#F48FB1&color_dots=#F3EEF7,#F8D7E3,#F4B3CB,#E68AB0,#B9789E
             dist/snake-dark.svg?palette=github-dark&color_snake=#FFE29A&color_dots=#161B22,#3B2A45,#6B3F6E,#B05E95,#F48FB1
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
           build_dir: dist

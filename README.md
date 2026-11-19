@@ -73,8 +73,8 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BeatriceArchive&show_icons=true&locale=cn&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=F48FB1&text_color=C9B8DD&icon_color=F2C14E" />
-  <img src="https://github-readme-stats.vercel.app/api?username=BeatriceArchive&show_icons=true&locale=cn&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=D6457F&text_color=5B3A63&icon_color=C9971C" alt="借阅统计" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BeatriceArchive&show_icons=true&locale=cn&hide_border=true&bg_color=00000000&title_color=F48FB1&text_color=C9B8DD&icon_color=F2C14E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BeatriceArchive&show_icons=true&locale=cn&hide_border=true&bg_color=00000000&title_color=D6457F&text_color=5B3A63&icon_color=C9971C" alt="借阅统计" height="170" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatriceArchive&layout=compact&locale=cn&hide_border=true&bg_color=00000000&title_color=F48FB1&text_color=C9B8DD&icon_color=F2C14E" />
@@ -89,7 +89,7 @@
 
 ## 🚪 敲门须知
 
-- 用法与参数写在各仓库的 README 和 `docs/` 里，先自己翻一翻かしら
+- 用法与参数写在各仓库的 README 里（模块仓库另有 `docs/`），先自己翻一翻かしら
 - 真遇到问题就开 issue，附上 **Surge 版本、模块版本和日志片段**，贝蒂才好帮你找书
 - 觉得好用就点个 ⭐。贝蒂、贝蒂才不是在期待呢……大概
 
